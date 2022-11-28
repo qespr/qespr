@@ -33,6 +33,4 @@ You have been visited by almighty Celestia. Bright and sunny days will come to y
                                '.__________.-'`       `'`
 ```
 
-
-
-
+[Art taken from SystemPony](https://gitlab.com/mattia.basaglia/ASCII-Pony/-/tree/master)
