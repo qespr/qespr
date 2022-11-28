@@ -1,4 +1,4 @@
-You have been visited by almighty Celestia. Bright and sunny days will come to you but ONLY if you'll pray to her every day.
+You have been visited by almighty <span style="color: #2e6c80;">Celestia</span>. Bright and sunny days will come to you but ONLY if you'll pray to her every day.
 ```
                                               ,'/
                                              . /
