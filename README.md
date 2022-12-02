@@ -40,6 +40,7 @@ You have been visited by almighty Celestia. Bright and sunny days will come to y
 #### Ponies
 
 - [PonySay](https://github.com/erkin/ponysay) - Cowsay but with ponies
+- [PonyFetch](https://github.com/Atsukoro1/ponyfetch) - Screenfetch but with ponies
 - [SystemPony](https://gitlab.com/mattia.basaglia/ASCII-Pony/-/tree/master) - Screenfetch but with ASCII ponies
 
 #### Browser extensions
