@@ -1,83 +1,31 @@
-You have been visited by almighty Celestia. Bright and sunny days will come to you but ONLY if you'll pray to her every day.
-```
-                                              ,'/
-                                             . /
-                                    ___/\   / /'`_  `'.
-                       __  _     .-' :v  :u/ /-'` \   )
-                  .-'``  \` \  .'.') ) /\ / /      :  |
-               .'`  .--.  ) .)/ / /-'__\// /       |  |
-            .'` .-'`  .| .'.|: @_-'`` \  \/\..--.  |  (   _.-._
-          ,' .'`      |' | |'| ( /.    '-.__\    ) (   `''.-'` `.
-        .'.-`         | .| | | \  ) \__.  |      |  `---``      )
-      .' (_.'         | |'.| | ('` ,_     `.     :       .--.   /
-    .'    /   .       | | |' (  \    `\-.-'       \  .-'`    |  \
-   -  .  (_.-'        | | |   \ |\     \    __     ``        |   `''--.,
- .` .'  .   /  /      | | :    \| `-._  \.'`  '.       .--.  `-..-'``'. )
- '-'/  /   (  /       | : (     |'-,  `-.)\     \    .'    )       __ ) )
-   /  /    /``(  .'   ( (  '..-':'  `-,  A )     \_.'      (_ .---:  )| /
-  /  /    /    '`'  .  \ '---''`       \ V )`-.            .-`     '.(((
- '  /    /    /  `'`(_. `''    .'`      )-'    `-..___..-'`          \ ``.'
-(  /    /    /   /  /  / / ,'-`      |  | \                           ''`
- '`/   /    /   /  /  /.''`.'        |  :  \
-  /   /    /   /  /`-'    /  ..---.  |  '.  \
- (   //   /   /(_/     _ /. . ,    )/|.  '.  \
-  `-'(   /   /     .-'` ( -(_)-   /  '|   '. (\
-      `-'`--'    /`      \' ' ` .'    |.  ('.` \  ,.---.
-                (_        `--''`````\ '| .-` \.-'`_     \
-                 /       ___        /  '..''``''`` `\    .
-                (``''''``   \       `--'`            \   |       ..--.
-                 \          (__,..-'`        ___     (   '\   .-`__\  \  .--.
-                  '-..----..,          ,.-'``   `-.   \__.'''` ,'  ``--``    '.'
-                             \     .-'`           _\     .--.-''.     .-'``''`
-                              \.-'`            .-'  `\`'`.'`     \_.-'
-                               '.__________.-'`       `'`
-```
+# Left for greaner pastures...
 
-[Art taken from SystemPony](https://gitlab.com/mattia.basaglia/ASCII-Pony/-/tree/master)
+Almost everywhere it's better than here, it really is. [Give up github](https://sfconservancy.org/GiveUpGitHub/) has some nice points, here are also some of my persnoal reasons:
 
-### Some utilities you didn't know you need
+### Problems with GitHub
 
-#### Ponies
+- Github:
+  - Is the place to go for "Open Source" projects while needing proprietary javascript being served by proprietary backend
+  - Is using Copilot to turn your hard work into potentionally locked down proprietary project
+- Other reasons:
+  - Such insane centralization (especially when controlled by Microsoft) is a problem, probably everyone can agree on that
+  - Microsoft ""loves"" open source and ""Loves"" Linux but not enough to
+    - [Give .NET core license that can protect you from possible patent trolling](https://isdotnetopen.com)
+    - Stop constantly trying to push Linux development to Github ([and so restricting access to all the blocked people](https://techcrunch.com/2019/07/29/github-ban-sanctioned-countries/))
+    - Make .NET core debugger on Linux (but they'll hapily port Teams and other mallware for you!)
+    - Port Minecraft bedrock edition to Linux
+    - Stop financing [FUD](http://techrights.org/o/2023/01/02/analytics-india-magazine-is-fud/) sites
+  - There is also big potential for EEE attack on git with the ``gh`` command specific to github
 
-- [PonySay](https://github.com/erkin/ponysay) - Cowsay but with ponies
-- [PonyFetch](https://github.com/Atsukoro1/ponyfetch) - Screenfetch but with ponies
-- [SystemPony](https://gitlab.com/mattia.basaglia/ASCII-Pony/-/tree/master) - Screenfetch but with ASCII ponies
+### Alternatives
 
-#### Browser extensions
+- [Fergejo](https://forgejo.org/) Soon may have federation support
+- [Gitea](https://about.gitea.com/) Soon may have federation support
+- [SourceHut](https://sourcehut.org/)
+- [GitLab](https://about.gitlab.com/)
+- [BitBucket](https://bitbucket.org/)
+- [Codeberg](https://codeberg.org/)
 
-- [Snowflake](https://snowflake.torproject.org/) - Help people get around Tor blocking
-- [SponsorBlock](https://sponsor.ajay.app/) - Skip sponsors in YouTube videos
-- [Reverse Image search](https://github.com/Brawl345/Image-Reverse-Search-WebExtension) - Allows to easilly reverse search image
+### But everyone is here!
 
-#### Online utilities
-
-- [Gif editor](https://ezgif.com/)
-- [Yandex Reverse Image search](https://ezgif.com/about) - It's so much better than google that you'll probably never use google
-  image search again
-
-#### Alternative frontends
-
-- [Nvidious](https://api.invidious.io/) - Faster, ad & trakcing free YouTube frontend
-- [Piped](https://github.com/TeamPiped/Piped) - YouTube frontend Looks even better than Nvidious
-- [Nitter](https://github.com/xnaas/nitter-instances) - Faster, ad & tracking free Twitter frontend
-- [Teddit](http://teddit.net/) - Faster and actually usable reddit frontend
-- [Bibliogram](https://sr.ht/~cadence/bibliogram/) - Instagram frontend
-
-#### Android apps
-
-- [Aurora Store](https://gitlab.com/AuroraOSS/AuroraStore) - Frontend for Google play store
-- [NewPipe](https://github.com/TeamNewPipe/NewPipe) - YouTube app
-- [Simple gallery](https://github.com/SimpleMobileTools/Simple-Gallery) - Used to be best gallery - Use 6.21.2 if you want the
-  last non cucked version
-- [Bubble](https://f-droid.org/en/packages/com.nkanaev.comics/) Comic reader
-- [Termux](https://f-droid.org/en/packages/com.termux/) - Probably best terminal emulator
-
-#### Decentralized things
-
-- [Yacy](https://yacy.net/) - Decentralized search engine
-
-#### Other
-
-- [scrcpy](https://github.com/Genymobile/scrcpy) - Allows for controlling your android from your computer
-- [Syncthing](https://syncthing.net/) - Amazing Free synchronization tool
-- [SearX](https://github.com/searx/searx) - Search engine agregator
+Because *you* are here as well. Github really is like Facebook of software development, and you can also be one of the people who leave before Microsoft does some colosal fuck up
